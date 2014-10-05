@@ -1,0 +1,21 @@
+{
+  "name": "project-euler",
+  "version": "1.0.0",
+  "main": "problem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vivanov1410/project-euler.git"
+  },
+  "author": "Viacheslav Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivanov1410/project-euler/issues"
+  },
+  "homepage": "https://github.com/vivanov1410/project-euler",
+  "dependencies": {
+    "moment": "^2.8.3"
+  }
+}
